@@ -4,3 +4,6 @@
 [submodule "jethrokuan"]
 	path = jethrokuan
 	url = git@github.com:amarder/dots.git
+[submodule "doom-emacs"]
+	path = doom-emacs
+	url = https://github.com/hlissner/doom-emacs.git
