@@ -1,3 +1,6 @@
 [submodule "kjhealy"]
 	path = kjhealy
 	url = git@github.com:amarder/emacs-starter-kit.git
+[submodule "jethrokuan"]
+	path = jethrokuan
+	url = git@github.com:amarder/dots.git
