@@ -1,0 +1,3 @@
+[submodule "kjhealy"]
+	path = kjhealy
+	url = git@github.com:amarder/emacs-starter-kit.git
